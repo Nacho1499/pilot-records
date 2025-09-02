@@ -164,7 +164,7 @@ export default function Hero() {
             Create Record
           </button>
           <Link
-            href="https://docs.google.com/spreadsheets/d/1Gh303zRDrXh3Dwt15rhYoUN97kepQtgg0-TENp8lzSY/edit?usp=sharing"
+            href="https://docs.google.com/spreadsheets/d/1Gh303zRDrXh3Dwt15rhYoUN97kepQtgg0-TENp8lzSY/view?usp=sharing"
             target="_blank"
           >
             <button className="border border-[#d4af37] cursor-pointer hover:bg-[#d4af37]/10 text-white px-8 py-3 rounded-xl font-semibold shadow transition-colors">
